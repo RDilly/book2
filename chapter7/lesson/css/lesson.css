@@ -1,0 +1,13 @@
+
+.bordered {
+    border: 1px solid black;
+}
+
+.dashed {
+    border: 1px dashed black;
+
+}
+
+.gold {
+    color: goldenrod;
+}
