@@ -1,0 +1,25 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "popcorn",
+      "category": "snackage",
+      "ethnicity": "Native American",
+      "barcode": "20042431"
+    },
+    {
+      "id": 2,
+      "name": "Tacos",
+      "category": "main course",
+      "ethnicity": "Latin American",
+      "barcode": "0023923206786"
+    },
+    {
+      "id": 3,
+      "name": "chicken sammich",
+      "category": "favorite",
+      "ethnicity": "all",
+      "barcode": "3250392325541"
+    }
+  ]
+}
