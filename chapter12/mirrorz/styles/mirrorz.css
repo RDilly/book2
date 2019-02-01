@@ -1,14 +1,12 @@
-#brown {
-    border: 1px solid brown;
-    flex-basis: 50%;
-
-}
-#yungPurp {
-    border: 1px solid purple;
-    flex-basis: 50%;
-}
-
-.mirror__container {
+#response {
     display: flex;
-    flex-direction: row; 
+    justify-content: center;
+}
+
+#txt-one {
+    color: brown;
+}
+
+#txt-two {
+    color: purple;
 }
